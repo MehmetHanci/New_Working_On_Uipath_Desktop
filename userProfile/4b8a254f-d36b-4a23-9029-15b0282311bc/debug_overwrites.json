@@ -1,0 +1,23 @@
+{
+  "docVersion": "1.0.0",
+  "tenants": [
+    {
+      "tenantKey": "da32a073-06d4-41ec-8ce1-05d53c3c1be8",
+      "resources": [
+        {
+          "solutionResourceKey": "f1aa670b-6c05-4323-8a1b-4b404b62a481",
+          "reprovisioningIndex": 0,
+          "overwrite": {
+            "resourceKey": "f1aa670b-6c05-4323-8a1b-4b404b62a481",
+            "resourceName": "NewWorks_HadiBakalim",
+            "folderKey": "c76ac0e8-be61-4a47-9dba-974c448bb61a",
+            "folderFullyQualifiedName": "ortak@dogruenerji.net\u0027s workspace/Yeni_Calismalar",
+            "folderPath": "9568bbb4-621c-478a-968e-8f7a6537734a.268e5f5b-312a-46d7-9699-5e422f02f271.c76ac0e8-be61-4a47-9dba-974c448bb61a",
+            "type": "Reference",
+            "kind": "asset"
+          }
+        }
+      ]
+    }
+  ]
+}
